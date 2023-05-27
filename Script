@@ -1,0 +1,17 @@
+Store Procedure 
+
+Create PROCEDURE SearchHotels
+    @Location NVARCHAR(100),
+    @MinRating INT,
+    @MaxRating INT,
+    @Name NVARCHAR(100)
+AS
+BEGIN
+    SELECT *
+    FROM Hotels
+    WHERE
+        (@Location IS NULL OR Location = @Location) or
+        (@MinRating IS NULL OR Rating >= @MinRating) or
+        (@MaxRating IS NULL OR Rating <= @MaxRating) or
+        (@Name IS NULL OR Name LIKE '%' + @Name + '%')
+END
