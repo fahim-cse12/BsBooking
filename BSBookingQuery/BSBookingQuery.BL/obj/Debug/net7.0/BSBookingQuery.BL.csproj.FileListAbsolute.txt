@@ -1,0 +1,17 @@
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.BL.deps.json
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.BL.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.BL.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.csproj.AssemblyReference.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.AssemblyInfoInputs.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.AssemblyInfo.cs
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.csproj.CoreCompileInputs.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\refint\BSBookingQuery.BL.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\ref\BSBookingQuery.BL.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.Domain.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.Utility.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.Domain.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\bin\Debug\net7.0\BSBookingQuery.Utility.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.BL\obj\Debug\net7.0\BSBookingQuery.BL.csproj.CopyComplete

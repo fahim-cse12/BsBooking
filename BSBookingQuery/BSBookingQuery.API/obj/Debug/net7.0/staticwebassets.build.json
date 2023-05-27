@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8JkSG1F77DPhv0WvWiP8y0P4Yarfg+yVfTx/eY2E4jw=",
+  "Source": "BSBookingQuery.API",
+  "BasePath": "_content/BSBookingQuery.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

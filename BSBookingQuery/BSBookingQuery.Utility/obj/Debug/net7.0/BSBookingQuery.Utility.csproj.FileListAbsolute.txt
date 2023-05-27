@@ -1,0 +1,12 @@
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\bin\Debug\net7.0\BSBookingQuery.Utility.deps.json
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\bin\Debug\net7.0\BSBookingQuery.Utility.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\bin\Debug\net7.0\BSBookingQuery.Utility.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.csproj.AssemblyReference.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.AssemblyInfoInputs.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.AssemblyInfo.cs
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.csproj.CoreCompileInputs.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\refint\BSBookingQuery.Utility.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\BSBookingQuery.Utility.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Utility\obj\Debug\net7.0\ref\BSBookingQuery.Utility.dll

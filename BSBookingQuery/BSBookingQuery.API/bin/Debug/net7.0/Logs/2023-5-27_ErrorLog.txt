@@ -1,0 +1,69 @@
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 5:58:10 PM
+Error Message :-The SqlParameterCollection only accepts non-null Microsoft.Data.SqlClient.SqlParameter type objects, not System.Data.SqlClient.SqlParameter objects. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 5:58:29 PM
+Error Message :-The SqlParameterCollection only accepts non-null Microsoft.Data.SqlClient.SqlParameter type objects, not System.Data.SqlClient.SqlParameter objects. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 6:32:06 PM
+Error Message :-The parameterized query '(@Location nvarchar(4000),@Name nvarchar(4000),@MinRating int,@M' expects the parameter '@Location', which was not supplied. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 6:34:02 PM
+Error Message :-The parameterized query '(@Location nvarchar(4000),@Name nvarchar(4000),@MinRating int,@M' expects the parameter '@Location', which was not supplied. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 6:44:56 PM
+Error Message :-Procedure or function 'SearchHotels' expects parameter '@MinRating', which was not supplied. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 6:45:17 PM
+Error Message :-Procedure or function 'SearchHotels' expects parameter '@MinRating', which was not supplied. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 7:27:13 PM
+Error Message :-The current provider doesn't have a store type mapping for properties of type 'Dictionary<string, object>'. | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 7:57:15 PM
+Error Message :-Must declare the scalar variable "@Location". | Inner Exception: 
+
+
+
+Layer Name :-BSBookingQuery.BL
+Class Name :-HotelService
+Method Name :-SearchHotel
+Date Time :-27-May-23 8:23:10 PM
+Error Message :-The parameterized query '(@Location nvarchar(4000),@MinRating nvarchar(4000),@MaxRating n' expects the parameter '@Location', which was not supplied. | Inner Exception: 

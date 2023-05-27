@@ -1,0 +1,17 @@
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\bin\Debug\net7.0\BSBookingQuery.Infrastucture.deps.json
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\bin\Debug\net7.0\BSBookingQuery.Infrastucture.runtimeconfig.json
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\bin\Debug\net7.0\BSBookingQuery.Infrastucture.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\bin\Debug\net7.0\BSBookingQuery.Infrastucture.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\bin\Debug\net7.0\BSBookingQuery.Domain.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\bin\Debug\net7.0\BSBookingQuery.Domain.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.AssemblyInfo.cs
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.csproj.CopyComplete
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\refint\BSBookingQuery.Infrastucture.dll
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.pdb
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\BSBookingQuery.Infrastucture.genruntimeconfig.cache
+C:\Users\uks.t7\Desktop\BrainStation23\BSBookingQuery\BSBookingQuery.Infrastucture\obj\Debug\net7.0\ref\BSBookingQuery.Infrastucture.dll
